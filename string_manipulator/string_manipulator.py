@@ -14,5 +14,5 @@ Build a String Manipulator with the following requirements
 
 
 class StringManipulator:
-    def to_lower_case(self, mystring: str):
-        return mystring.lower()
+    def to_lower_case(self, my_string: str):
+        return my_string.lower()
