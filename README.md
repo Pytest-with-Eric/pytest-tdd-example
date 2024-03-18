@@ -1,4 +1,4 @@
-# Pytest TDD Example
+# Python TDD Example (with Pytest)
 
 This repo contains the sample code for the article - [How To Practice Test-Driven Development In Python? (Deep Dive)](https://pytest-with-eric.com/tdd/pytest-tdd/)
 
